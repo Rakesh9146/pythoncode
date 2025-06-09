@@ -1,1 +1,1 @@
-printf("Wassup Hatti!! v21")
+print("Wassup Hatti!! v21")
